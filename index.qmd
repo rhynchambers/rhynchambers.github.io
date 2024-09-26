@@ -1,11 +1,15 @@
 ---
-title: "rhynchambers.github.io"
+title: " Rhyn Chambers"
+image: OPVG6984[1].JPG
+toc: True
+about: 
+  template: trestles
+  image-width: 17em
+  links: 
+    - text: GitHUb
+      href: https://github.com/rhynchambers/rhynchambers.github.io
+    - text: Email
+      href: mailto:rhynchambers@icloud.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hola amigos como estas? I am a student at Chaminade University of Honolulu and I am trying to make a cool website.
