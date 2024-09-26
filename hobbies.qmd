@@ -1,3 +1,6 @@
 ---
 title: "hobbies"
+image: 
 ---
+
+This is my hobbies page I like to do things in the ocean and play baseball.
