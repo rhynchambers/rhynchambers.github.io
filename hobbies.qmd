@@ -2,6 +2,8 @@
 title: "hobbies"
 image: IMG_7810.JPG
 toc: true
+  template: trestles
+  image-width: 17em
 ---
 
 This is my hobbies page I like to do things in the ocean and play baseball.
